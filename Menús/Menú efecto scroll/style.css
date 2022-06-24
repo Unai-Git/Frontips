@@ -1,0 +1,91 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding: 30px 20px;
+  display: flex;
+  justify-content: space-around;
+  transition: 0.7;
+  -webkit-transition: 0.7;
+  -moz-transition: 0.7;
+  -ms-transition: 0.7;
+  -o-transition: 0.7;
+  z-index: 1;
+}
+
+/* Clase añadida por el script.js al hacer scroll */
+.abajo {
+  background-color: #fff;
+}
+
+.logo {
+  color: palevioletred;
+  text-decoration: none;
+  letter-spacing: 8px;
+  font-weight: 900;
+  text-transform: uppercase;
+  transition: 0.7;
+  -webkit-transition: 0.7;
+  -moz-transition: 0.7;
+  -ms-transition: 0.7;
+  -o-transition: 0.7;
+}
+
+nav ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+}
+
+nav ul li {
+  list-style: none;
+}
+
+nav ul li a:hover {
+  background-color: rgb(0, 0, 0.7);
+}
+
+nav ul li a {
+  padding: 10px;
+  color: turquoise;
+  position: relative;
+  text-decoration: none;
+  letter-spacing: 2px;
+  font-weight: 600;
+  transition: 0.7;
+  -webkit-transition: 0.7;
+  -moz-transition: 0.7;
+  -ms-transition: 0.7;
+  -o-transition: 0.7;
+}
+
+.contenido {
+  width: 100%;
+  height: 100vh;
+  background-image: url(img/fondo.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+footer {
+  width: 100%;
+  height: 30px;
+  padding-top: 5px;
+  background-color: palevioletred;
+  text-align: center;
+  font-weight: 900;
+  letter-spacing: 4px;
+}
