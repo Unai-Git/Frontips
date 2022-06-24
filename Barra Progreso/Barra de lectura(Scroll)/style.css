@@ -1,0 +1,41 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.barra{
+    position: fixed;
+    width: 100%;
+    height: 10px;
+    z-index: 2;
+}
+
+.progresion{
+    width: 0%;
+    height: 100%;
+    background-color: red;
+}
+.fin{
+    background-color: green;
+}
+ 
+.contenido{
+    position: absolute;
+    z-index: 1;
+    width: 70%;
+    padding: 10px;
+    top: 4%;
+    left: 15%;
+    right: 15%;
+    border: solid 1px black;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
