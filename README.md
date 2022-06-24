@@ -8,4 +8,4 @@
 
 
 ## Barra Progreso
-- [Barra de lectura(Scroll))](https://github.com/Unai-Git/Frontips/tree/main/Men%C3%BAs/Men%C3%BA%20Cl%C3%A1sico(Flex-Grid))
+- [Barra de lectura(Scroll))](https://github.com/Unai-Git/Frontips/tree/main/Barra%20Progreso/Barra%20de%20lectura(Scroll))
