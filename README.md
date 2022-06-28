@@ -19,4 +19,4 @@
 - [Tarjetas Expandibles](https://github.com/Unai-Git/Frontips/tree/main/Tarjetas/Tarjetas%20Expandibles)
 
 ## Consumir Datos
-- [Consumir API publica]()
+- [Consumir Fetch API publica](https://github.com/Unai-Git/Frontips/tree/main/API)
