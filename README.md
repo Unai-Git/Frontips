@@ -12,7 +12,7 @@
 - [Barra Progreso (Botones)](https://github.com/Unai-Git/Frontips/tree/main/Barra%20Progreso/Barra%20Progreso%20Botones)
 
 ## Calendarios
-- [Calendario Simple(HTML-CSS))](https://github.com/Unai-Git/Frontips/tree/main/Calendario/Calendario%20Simple(HTML-CSS))
+- [Calendario Simple(HTML-CSS)](https://github.com/Unai-Git/Frontips/tree/main/Calendario/Calendario%20Simple(HTML-CSS))
 
 ## Tarjetas
-- [Tarjetas Expandibles)](https://github.com/Unai-Git/Frontips/tree/main/Tarjetas/Tarjetas%20Expandibles)
+- [Tarjetas Expandibles](https://github.com/Unai-Git/Frontips/tree/main/Tarjetas/Tarjetas%20Expandibles)
