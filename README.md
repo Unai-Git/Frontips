@@ -20,5 +20,8 @@
 ## Tarjetas
 - [Tarjetas Expandibles](https://github.com/Unai-Git/Frontips/tree/main/Tarjetas/Tarjetas%20Expandibles)
 
+## Galerías
+- [Galería simple](https://github.com/Unai-Git/Frontips/tree/main/Galer%C3%ADas/Galer%C3%ADa%20simple)
+
 ## Consumir Datos
 - [Consumir Fetch API publica](https://github.com/Unai-Git/Frontips/tree/main/API)
