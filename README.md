@@ -7,6 +7,7 @@
 - [Menú efecto scrol](https://github.com/Unai-Git/Frontips/tree/main/Men%C3%BAs/Men%C3%BA%20efecto%20scroll)
 - [Menú Rotatorio](https://github.com/Unai-Git/Frontips/tree/main/Men%C3%BAs/Men%C3%BA%20Rotatorio)
 - [Menú Lateral](https://github.com/Unai-Git/Frontips/tree/main/Men%C3%BAs/Men%C3%BA%20Lateral)
+- [Menú en la Imagen](https://github.com/Unai-Git/Frontips/tree/main/Men%C3%BAs/Men%C3%BA%20en%20la%20Imagen)
 
 ## Barra Progreso
 - [Barra de lectura(Scroll)](https://github.com/Unai-Git/Frontips/tree/main/Barra%20Progreso/Barra%20de%20lectura(Scroll))
