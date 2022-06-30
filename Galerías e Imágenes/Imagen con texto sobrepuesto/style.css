@@ -1,0 +1,32 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+div {
+  position: relative;
+  max-width: 600px;
+  min-width: 250px;
+  width: 60%;
+  margin: 10px auto;
+}
+
+div img{
+    width: 100%;
+}
+
+.texto {
+  position: absolute;
+  top: 30%;
+  left: 30%;
+  padding: 1rem;
+  font-size: 2rem;
+  font-weight: 300;
+  color: white;
+  backdrop-filter: blur(14px) brightness(80%);
+}
