@@ -23,6 +23,8 @@
 ## Galerías e Imágenes
 - [Galería simple](https://github.com/Unai-Git/Frontips/tree/main/Galer%C3%ADas/Galer%C3%ADa%20simple)
 - [Galería scroll vertical](https://github.com/Unai-Git/Frontips/tree/main/Galer%C3%ADas%20e%20Im%C3%A1genes/Galer%C3%ADa%20scroll%20vertical)
+- [Imagen mini zoom](https://github.com/Unai-Git/Frontips/tree/main/Galer%C3%ADas%20e%20Im%C3%A1genes/Imagen%20mini%20zoom)
+- [Imagen con texto sobrepuesto](https://github.com/Unai-Git/Frontips/tree/main/Galer%C3%ADas%20e%20Im%C3%A1genes/Imagen%20con%20texto%20sobrepuesto)
 
 ## Consumir Datos
 - [Consumir Fetch API publica](https://github.com/Unai-Git/Frontips/tree/main/API)
