@@ -20,6 +20,10 @@
 ## Tarjetas
 - [Tarjetas Expandibles](https://github.com/Unai-Git/Frontips/tree/main/Tarjetas/Tarjetas%20Expandibles)
 
+## Botones
+- [Interruptor](https://github.com/Unai-Git/Frontips/tree/main/Botones/Interruptor)
+- [Seguimiento-Cursor](https://github.com/Unai-Git/Frontips/tree/main/Botones/Seguimiento-Cursor)
+
 ## Galerías e Imágenes
 - [Galería simple](https://github.com/Unai-Git/Frontips/tree/main/Galer%C3%ADas/Galer%C3%ADa%20simple)
 - [Galería scroll vertical](https://github.com/Unai-Git/Frontips/tree/main/Galer%C3%ADas%20e%20Im%C3%A1genes/Galer%C3%ADa%20scroll%20vertical)
